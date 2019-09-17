@@ -1,8 +1,8 @@
 # Multivariable_Calculus_with_Python
-This learning module is to supplement the teaching of Multivariable Calculus.We rely on visuals to elucidate the core concepts, and on computational thinking for applying those concepts 
+These learning materials are to supplement the teaching of Multivariable Calculus.We rely on visuals to elucidate the core concepts, and on computational thinking for applying those concepts 
 to useful settings. 
 
-> Get an interactive session in MyBinder.org with these course materials by clicking on the button below. Select the folder notebooks_en to access the lessons of this course as fully executable Jupyter notebooks.
+> Get an interactive session in MyBinder.org with these course materials by clicking on the button below. Select the folder notebooks to access the course material as fully executable Jupyter notebooks.
 
 > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkimo/Multivariable_Calculus_with_Python/master)
 
