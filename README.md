@@ -13,3 +13,5 @@ Intuitive presentation of basis vectors, linear combination and span.
 #### [T1_2](T1_2_visualizing_space_curves.ipynb): Visualizing curves in space
 Vector functions on intervals = curves in space = particle's path
 
+#### [T1_3](T1_3_visualizing_two_variable_functions.ipynb): Visualizing two variable functions
+Basic surface plot (interactive), Animate a rotating 3D graph in matplotlib 
