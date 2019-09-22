@@ -11,4 +11,3 @@ dependencies:
   - imageio
   - ipywidgets
   - ffmpeg
-  - math
