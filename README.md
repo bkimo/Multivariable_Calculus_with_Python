@@ -11,4 +11,5 @@ What is a vector? The physicist's view versus the computer scientist's view. Vis
 Intuitive presentation of basis vectors, linear combination and span. 
 
 #### [T1_2](T1_2_visualizing_space_curves.ipynb): Visualizing curves in space
+Vector functions on intervals = curves in space = particle's path
 
