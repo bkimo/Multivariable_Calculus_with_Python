@@ -10,3 +10,5 @@ dependencies:
   - jupyter
   - imageio
   - ipywidgets
+  - ffmpeg
+  - math
