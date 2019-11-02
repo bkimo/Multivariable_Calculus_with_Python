@@ -2,9 +2,11 @@
 These learning materials are to supplement the teaching of Multivariable Calculus.We rely on visuals to elucidate the core concepts, and on computational thinking for applying those concepts 
 to useful settings. 
 
-> Get an interactive session in MyBinder.org with these course materials by clicking on the button below. Select the folder notebooks to access the course material as fully executable Jupyter notebooks.
+> Get an interactive session in MyBinder.org or in Google's Colab with these course materials by clicking on the button below. Select the folder notebooks to access the course material as fully executable Jupyter notebooks. (Note that lauching interactive notebooks may take several minutes.) 
 
-> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkimo/Multivariable_Calculus_with_Python/master)
+>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bkimo/Multivariable_Calculus_with_Python)
+ 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkimo/Multivariable_Calculus_with_Python/master)
 
 #### [T1_1](T1_1_Vectors.ipynb): Vectors
 What is a vector? The physicist's view versus the computer scientist's view. Visualizing vectors. Fundamental vector operations: visualizing vector addition and multiplication by a scalar. 
