@@ -17,5 +17,9 @@ Vector functions on intervals = curves in space = particle's path
 #### [T1_3](T1_3_visualizing_two_variable_functions.ipynb): Visualizing two variable functions
 Basic surface plot (interactive), Animate a rotating 3D graph in matplotlib 
 
+#### [T1_4](T1_4_simple_nn.ipynb): Simple Neural Network
+
+#### [T1_5](T1_5_chain_rule_and_backpropagation.ipynb): Chain Rule and Backpropagation
+
 #### [T2_1](T2_1_polar_plot.ipynb): Plotting in polar coordinates
 Axis in polar coordinates, Plot a point, Plot a function, Polar Plot of a Circle, Cardioids-Symmetrical around x- and y-axis, n-leaf Roses
