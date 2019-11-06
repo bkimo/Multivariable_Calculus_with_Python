@@ -21,5 +21,7 @@ Basic surface plot (interactive), Animate a rotating 3D graph in matplotlib
 
 #### [T1_5](T1_5_chain_rule_and_backpropagation.ipynb): Chain Rule and Backpropagation
 
+#### [T1_6](T1_6_Backpropagation_and_Neural_Network.ipynb): Backpropagation and Neural Network
+
 #### [T2_1](T2_1_polar_plot.ipynb): Plotting in polar coordinates
 Axis in polar coordinates, Plot a point, Plot a function, Polar Plot of a Circle, Cardioids-Symmetrical around x- and y-axis, n-leaf Roses
